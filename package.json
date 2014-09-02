@@ -1,0 +1,13 @@
+{
+  "name": "arrows_realtime",
+  "version": "0.0.1",
+  "description": "Arrows in real-time",
+  "main": "app.js",
+  "author": "Marco Godínez <markotom@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.8.7",
+    "socket.io": "^1.0.6"
+  }
+}
